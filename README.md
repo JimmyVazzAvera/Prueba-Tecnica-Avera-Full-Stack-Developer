@@ -22,9 +22,5 @@ Plataforma de CPU: Intel Broadwell
 Procesador: Intel(R) Xeon(R) CPU @ 2.20GHz
 Memoria RAM: 2GB
 Disco Duro: 10GB PersistentDisk
-
-La prueba esta divida en dos partes, esta es la primera la cual consta de práctica donde a continuación te presentaremos requisitos y detalles. Y al final, en una entrevista una serie de preguntas o análisis de casos de uso de un problema real enfocado a stacks tecnológicos. 
-
-Lo que se require es crear un proyecto de woordpress e instalar el plugin de Woocomerce para vender diversos articulos como la siguiente página: https://www.swell.com/products
-
-Puedes copiar los mismos productos, pero mostrar una web parecida donde se puedan visualizar productos con precios, ver detalle de un producto, agregar al carrito y todo el flujo de compra.
+Kernel: 4.19.0-20-cloud-amd64 x86_64
+Distro: Debian GNU/Linux 10 (buster)
